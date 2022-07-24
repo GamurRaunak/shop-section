@@ -355,15 +355,15 @@ Blocks:
   88:
     material: "QUARTZ_BRICKS"
     buy: 12.00
-    sell: 10.00
+    sell: 6.00
   89:
     material: "QUARTZ_SLAB"
     buy: 4.00
-    sell: 3.00
+    sell: 2.00
   90:
     material: "QUARTZ_STAIRS"
     buy: 6.00
-    sell: 4.00
+    sell: 2.00
   91:
     material: "RED_SAND"
     buy: 1.50
@@ -1043,229 +1043,229 @@ Enchanting:
   1:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 30
+    sell: 15
     enchantments:
     - "WATER_WORKER:1"
   2:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 100
+    sell: 35
     enchantments:
     - "DAMAGE_ARTHROPODS:5"
   3:
     material: "ENCHANTED_BOOK"
     buy: 100
-    sell: 30
+    sell: 15
     enchantments:
     - "BINDING_CURSE:1"
   4:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 80
+    sell: 35
     enchantments:
     - "PROTECTION_EXPLOSIONS:4"
   5:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 50
+    sell: 25
     enchantments:
     - "CHANNELING:1"
   6:
     material: "ENCHANTED_BOOK"
     buy: 200
-    sell: 35
+    sell: 15
     enchantments:
     - "DEPTH_STRIDER:3"
   7:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 100
+    sell: 20
     enchantments:
     - "DIG_SPEED:5"
   8:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 90
+    sell: 25
     enchantments:
     - "PROTECTION_FALL:4"
   9:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 40
+    sell: 15
     enchantments:
     - "FIRE_ASPECT:2"
   10:
     material: "ENCHANTED_BOOK"
     buy: 200
-    sell: 45
+    sell: 35
     enchantments:
     - "PROTECTION_FIRE:4"
   11:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 40
+    sell: 20
     enchantments:
     - "ARROW_FIRE:1"
   12:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 80
+    sell: 25
     enchantments:
     - "LOOT_BONUS_BLOCKS:3"
   13:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 45
+    sell: 25
     enchantments:
     - "FROST_WALKER:2"
   14:
     material: "ENCHANTED_BOOK"
     buy: 500
-    sell: 150
+    sell: 60
     enchantments:
     - "IMPALING:5"
   15:
     material: "ENCHANTED_BOOK"
     buy: 250
-    sell: 50
+    sell: 15
     enchantments:
     - "ARROW_INFINITE:1"
   16:
     material: "ENCHANTED_BOOK"
     buy: 100
-    sell: 50
+    sell: 15
     enchantments:
     - "KNOCKBACK:2"
   17:
     material: "ENCHANTED_BOOK"
     buy: 250
-    sell: 55
+    sell: 15
     enchantments:
     - "LOOT_BONUS_MOBS:3"
   18:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 100
+    sell: 25
     enchantments:
     - "LOYALTY:3"
   19:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 60
+    sell: 25
     enchantments:
     - "LUCK:3"
   20:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 60
+    sell: 25
     enchantments:
     - "LURE:3"
   21:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 80
+    sell: 15
     enchantments:
     - "MENDING:1"
   22:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 40
+    sell: 25
     enchantments:
     - "MULTISHOT:1"
   23:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 40
+    sell: 20
     enchantments:
     - "PIERCING:4"
   24:
     material: "ENCHANTED_BOOK"
     buy: 500
-    sell: 80
+    sell: 25
     enchantments:
     - "ARROW_DAMAGE:5"
   25:
     material: "ENCHANTED_BOOK"
     buy: 250
-    sell: 80
+    sell: 35
     enchantments:
     - "PROTECTION_PROJECTILE:4"
   26:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 120
+    sell: 35
     enchantments:
     - "PROTECTION_ENVIRONMENTAL:4"
   27:
     material: "ENCHANTED_BOOK"
     buy: 250
-    sell: 80
+    sell: 25
     enchantments:
     - "ARROW_KNOCKBACK:2"
   28:
     material: "ENCHANTED_BOOK"
     buy: 150
-    sell: 60
+    sell: 15
     enchantments:
     - "QUICK_CHARGE:3"
   29:
     material: "ENCHANTED_BOOK"
     buy: 250
-    sell: 50
+    sell: 25
     enchantments:
     - "OXYGEN:3"
   30:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 120
+    sell: 45
     enchantments:
     - "RIPTIDE:3"
   31:
     material: "ENCHANTED_BOOK"
     buy: 450
-    sell: 100
+    sell: 35
     enchantments:
     - "DAMAGE_ALL:5"
   32:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 80
+    sell: 15
     enchantments:
     - "SILK_TOUCH:1"
   33:
     material: "ENCHANTED_BOOK"
     buy: 350
-    sell: 80
+    sell: 15
     enchantments:
     - "DAMAGE_UNDEAD:5"
   34:
     material: "ENCHANTED_BOOK"
     buy: 1500
-    sell: 500
+    sell: 40
     enchantments:
     - "SOUL_SPEED:3"
   35:
     material: "ENCHANTED_BOOK"
     buy: 200
-    sell: 60
+    sell: 30
     enchantments:
     - "SWEEPING_EDGE:3"
   36:
     material: "ENCHANTED_BOOK"
     buy: 200
-    sell: 80
+    sell: 40
     enchantments:
     - "THORNS:3"
   37:
     material: "ENCHANTED_BOOK"
     buy: 300
-    sell: 80
+    sell: 25
     enchantments:
     - "DURABILITY:3"
   38:
     material: "ENCHANTED_BOOK"
     buy: 100
-    sell: 60
+    sell: 20
     enchantments:
     - "VANISHING_CURSE:1"
 
@@ -1586,7 +1586,7 @@ Music:
 Ores:
   1:
     material: "ANCIENT_DEBRIS"
-    buy: -1
+    buy: 1000
     sell: 50
   2:
     material: "COAL"
@@ -1602,7 +1602,7 @@ Ores:
     sell: 2.50
   5:
     material: "DIAMOND_BLOCK"
-    buy: -1
+    buy: 500
     sell: 23.00
   6:
     material: "EMERALD"
@@ -1634,7 +1634,7 @@ Ores:
     sell: 2.83
   13:
     material: "LAPIS_LAZULI"
-    buy: 2.65
+    buy: 3.65
     sell: 0.34
   14:
     material: "NETHERITE_BLOCK"
@@ -1670,7 +1670,7 @@ Others:
     sell: 50.00
   2:
     material: "BELL"
-    buy: 250
+    buy: 90
     sell: -1
   3:
     material: "CARROT_ON_A_STICK"
@@ -1774,7 +1774,7 @@ Others:
     sell: 0.35
   28:
     material: "SPONGE"
-    buy: 11.55
+    buy: 180.55
     sell: 35.00
   29:
     material: "TOTEM_OF_UNDYING"
@@ -1815,7 +1815,7 @@ Others:
   38:
     material: "GLOBE_BANNER_PATTERN"
     buy: 250
-    sell: 25.00
+    sell: 45.00
   39:
     material: "MOJANG_BANNER_PATTERN"
     buy: 10500.00
@@ -1854,7 +1854,7 @@ Others:
     sell: 1.25
   48:
     material: "WITHER_ROSE"
-    buy: 2000
+    buy: 800
     sell: -1
   49:
     material: "DRAGON_EGG"
@@ -1871,7 +1871,7 @@ Others:
   52:
     material: "GOLDEN_APPLE"
     buy: 170
-    sell: 2.50
+    sell: 6.50
   53:
     material: "ICE"
     buy: 2.50
