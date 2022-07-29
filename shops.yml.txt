@@ -1830,7 +1830,7 @@ Others:
     sell: 100
   42:
     material: "BEACON"
-    buy: -1
+    buy: 15069
     sell: 690.69
   43:
     material: "END_ROD"
