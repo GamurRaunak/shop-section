@@ -1240,7 +1240,7 @@ Enchanting:
     - "DAMAGE_UNDEAD:5"
   34:
     material: "ENCHANTED_BOOK"
-    buy: 1500
+    buy: -1
     sell: 40
     enchantments:
     - "SOUL_SPEED:3"
