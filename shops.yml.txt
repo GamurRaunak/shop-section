@@ -1482,11 +1482,11 @@ Mobs:
     sell: 1.00
   7:
     material: "GHAST_TEAR"
-    buy: 600
-    sell: 50
+    buy: 369
+    sell: 20
   8:
     material: "GUNPOWDER"
-    buy: 5
+    buy: 7
     sell: 0.50
   9:
     material: "MAGMA_CREAM"
@@ -1494,7 +1494,7 @@ Mobs:
     sell: 0.60
   10:
     material: "NAUTILUS_SHELL"
-    buy: 50
+    buy: 169
     sell: 5
   11:
     material: "PHANTOM_MEMBRANE"
@@ -1502,7 +1502,7 @@ Mobs:
     sell: 2
   12:
     material: "RABBIT_FOOT"
-    buy: 50
+    buy: 35
     sell: 10
   13:
     material: "RABBIT_HIDE"
@@ -1642,7 +1642,7 @@ Ores:
     sell: 3600.69
   15:
     material: "NETHERITE_INGOT"
-    buy: -1
+    buy: 5000
     sell: 400
   16:
     material: "QUARTZ"
@@ -1651,7 +1651,7 @@ Ores:
   17:
     material: "QUARTZ_BLOCK"
     buy: 11.00
-    sell: 3.75
+    sell: 2.75
   18:
     material: "REDSTONE"
     buy: 2
@@ -1742,7 +1742,7 @@ Others:
     sell: 2.00
   20:
     material: "RED_BED"
-    buy: 3.00
+    buy: 25.00
     sell: 1.00
   21:
     material: "SADDLE"
@@ -1754,11 +1754,11 @@ Others:
     sell: 1.00
   23:
     material: "SCAFFOLDING"
-    buy: 1.00
+    buy: 15.00
     sell: 0.20
   24:
     material: "SHULKER_SHELL"
-    buy: -1
+    buy: 500
     sell: 10.00
   25:
     material: "SLIME_BALL"
@@ -1782,7 +1782,7 @@ Others:
     sell: 0.98
   30:
     material: "TRIDENT"
-    buy: -1
+    buy: 6969
     sell: 250
   31:
     material: "TROPICAL_FISH_BUCKET"
@@ -1831,7 +1831,7 @@ Others:
   42:
     material: "BEACON"
     buy: -1
-    sell: 1000
+    sell: 690.69
   43:
     material: "END_ROD"
     buy: 1.00
@@ -1859,7 +1859,7 @@ Others:
   49:
     material: "DRAGON_EGG"
     buy: -1
-    sell: 100000
+    sell: 15000
   50:
     material: "BOOK"
     buy: 10.00
